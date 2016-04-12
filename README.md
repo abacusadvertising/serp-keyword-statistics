@@ -1,6 +1,8 @@
 # SERP keyword statistics
 
-Eat a list of keywords (and optionnaly a google domain extension, as sauce), and return an array of objets as follow :
+Eat a list of keywords (and optionnaly a google domain extension, as sauce), and return the number of google results plus the first link.
+
+Return an array of objets as follow :
 
 ```javascript
 [
